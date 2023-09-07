@@ -1,0 +1,50 @@
+body {
+    background-color: bisque;
+}
+h1 {
+    color: black;
+    text-align: center;
+    font: normal 20pt Arial;
+    }
+
+    p {
+        font: 15pt Arial;
+        color: black;
+        text-align: center;
+    }
+    input {
+        font: normal Arial;
+        text-align: center;
+        border: 2px solid;
+        padding: .3rem .6rem;
+        font-size: 1rem;
+        font-weight: bold;
+       
+        }
+
+    div#txt {
+        display: block;
+        border: 2px solid;
+        padding: .3rem .6rem;
+        font-size: 1rem;
+        font-weight: bold;
+
+    }
+    
+    input#bu {
+        border: 2px solid;
+        padding: .3rem .6rem;
+        font-size: 1rem;
+        font-weight: bold;
+        background-color: bisque;
+        cursor: pointer;
+
+    }
+
+
+
+    div {
+        font: Arial;
+        background-color: rgb(236, 177, 105);
+        text-align: center;
+    }
